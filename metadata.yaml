@@ -1,5 +1,8 @@
 _repo: The-uses-of-water-in-health-and-disease-b-A-practical-treatise-on-the-bath-its-history-and-us__74519
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74519-h/images/cover.jpg
 creator:
   author:
     agent_name: Kellogg, John Harvey
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7328
     wikipedia: https://en.wikipedia.org/wiki/John_Harvey_Kellogg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74519#The-uses-of-water-in-health-and-disease-b-A-practical-treatise-on-the-bath-its-history-and-us_
 gutenberg_issued: '2024-10-04'
 gutenberg_type: Text
 identifiers:
